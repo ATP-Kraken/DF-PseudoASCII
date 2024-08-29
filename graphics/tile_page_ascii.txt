@@ -1,0 +1,265 @@
+tile_page_ascii
+
+[OBJECT:TILE_PAGE]
+
+Colorset: Vherid Default+
+Tileset: RDE_Vector http://www.bay12forums.com/smf/index.php?topic=178442.msg8272818
+
+Quick invisible graphic
+
+[TILE_PAGE:NONE]
+	[FILE:images/none.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:1]
+
+These tilesets are automatically colored to match the material color of their respective object.
+
+transparent
+[TILE_PAGE:ASCII_X_0]
+	[FILE:images/ascii/auto/X_0.png] gray palette
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_X_1]
+	[FILE:images/ascii/auto/X_1.png] brown palette
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+black background
+[TILE_PAGE:ASCII_X00]
+	[FILE:images/ascii/auto/X00.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_X01]
+	[FILE:images/ascii/auto/X01.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+colored background
+[TILE_PAGE:ASCII_XX0]
+	[FILE:images/ascii/auto/XX0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_XX1]
+	[FILE:images/ascii/auto/XX1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+inverted tile on black
+[TILE_PAGE:ASCII_0X0]
+	[FILE:images/ascii/auto/0X0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_0X1]
+	[FILE:images/ascii/auto/0X1.png] technically inaccurate notation
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+inverted tile on lgray
+[TILE_PAGE:ASCII_7X0]
+	[FILE:images/ascii/auto/7X0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_7X1]
+	[FILE:images/ascii/auto/7X1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+These tilesets have been manually colored to match a color set.
+
+Gray
+[TILE_PAGE:ASCII_0_1]
+	[FILE:images/ascii/0_1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_001]
+	[FILE:images/ascii/001.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+Blue
+[TILE_PAGE:ASCII_1_0]
+	[FILE:images/ascii/1_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_1_1]
+	[FILE:images/ascii/1_1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_100]
+	[FILE:images/ascii/100.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_101]
+	[FILE:images/ascii/101.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_010]
+	[FILE:images/ascii/010.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+Green
+[TILE_PAGE:ASCII_2_0]
+	[FILE:images/ascii/2_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_2_1]
+	[FILE:images/ascii/2_1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_200]
+	[FILE:images/ascii/200.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_201]
+	[FILE:images/ascii/201.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_020]
+	[FILE:images/ascii/020.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+Cyan
+[TILE_PAGE:ASCII_3_0]
+	[FILE:images/ascii/3_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_3_1]
+	[FILE:images/ascii/3_1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_300]
+	[FILE:images/ascii/300.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_301]
+	[FILE:images/ascii/301.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_030]
+	[FILE:images/ascii/030.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+Red
+[TILE_PAGE:ASCII_4_0]
+	[FILE:images/ascii/4_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_4_1]
+	[FILE:images/ascii/4_1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_400]
+	[FILE:images/ascii/400.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_401]
+	[FILE:images/ascii/401.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_040]
+	[FILE:images/ascii/040.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+Magenta
+[TILE_PAGE:ASCII_5_0]
+	[FILE:images/ascii/5_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_5_1]
+	[FILE:images/ascii/5_1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_500]
+	[FILE:images/ascii/500.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_501]
+	[FILE:images/ascii/501.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_050]
+	[FILE:images/ascii/050.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+Yellow
+[TILE_PAGE:ASCII_6_0]
+	[FILE:images/ascii/6_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_6_1]
+	[FILE:images/ascii/6_1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_600]
+	[FILE:images/ascii/600.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_601]
+	[FILE:images/ascii/601.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_060]
+	[FILE:images/ascii/060.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+White
+[TILE_PAGE:ASCII_7_0]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_7_1]
+	[FILE:images/ascii/7_1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_700]
+	[FILE:images/ascii/700.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_701]
+	[FILE:images/ascii/701.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ASCII_070]
+	[FILE:images/ascii/070.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]

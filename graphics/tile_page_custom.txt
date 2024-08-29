@@ -1,0 +1,47 @@
+tile_page_custom
+
+[OBJECT:TILE_PAGE]
+
+Additional graphics that aren't derived from a tileset.
+
+Loaded by DFhack replacing "black_background.bmp", if absent will become ASCII tile 32 (space)
+Cannot be referenced in scripts without being used elsewhere
+TILE_GRAPHICS:HACK_BLACKBG:0:0:WATER in graphics_environment_tiles
+[TILE_PAGE:HACK_BLACKBG]
+	[FILE:images/hack_blackbg.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:1]
+	
+Premium-style Z-fog
+[TILE_PAGE:MULTILEVEL_FOG]
+	[FILE:images/custom/multilevel_fog.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:1]
+	
+Walls
+[TILE_PAGE:CUST_WALL_GRAY]
+	[FILE:images/custom/wall_gray.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+
+[TILE_PAGE:CUST_WALL_WOODEN]
+	[FILE:images/custom/wall_brown.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+	
+[TILE_PAGE:CUST_WALL_MOSS]
+	[FILE:images/custom/wall_moss.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+	
+[TILE_PAGE:CUST_WALL_ICE]
+	[FILE:images/custom/wall_ice.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:4:5]
+	
+Items
+[TILE_PAGE:SLAB_SIGN]
+	[FILE:images/custom/item_slab.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:2:23]
+
