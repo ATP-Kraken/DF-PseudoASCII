@@ -1,0 +1,208 @@
+tile_page_interface
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:INTERFACE_BITS_SHARED]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ANNOUNCEMENT_ALERTS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:UNIT_STATUS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:BUILDING_ICONS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_2]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_UNIT_SELECTOR]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_ZONES]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_STOCKPILES]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_STOCKPILES]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_BUILDING_SHEET]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_UNIT_SHEET]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_WORK_ORDERS]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_NOBLES]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_LABOR]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_LOCATIONS]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_BURROWS]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_HAULING]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_SQUADS]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ICONS_UNIT_SELECTOR]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:MOON_WEATHER]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:CURSORS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:ACTIVITY_ZONES]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:STOCKPILE_ICONS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:STOCKPILE_ICONS_SIGNLESS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_BUILDING_SELECTION]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_BUILDING_PLACEMENT]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:DEFAULTS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:DESIGNATIONS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:DESIGNATION_PRIORITY]
+	[FILE:images/ascii/7_1.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:DESIGNATION_ITEM]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:CUSTOM_SYMBOLS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_EMBARK]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:CALENDAR]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_LEGENDS]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_RECENTER]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_HELP]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:RAMP_ARROWS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:INTERFACE_BITS_DISPLAY_TOGGLES]
+	[FILE:images/ascii/ui/curses_640x300.bmp]
+	[TILE_DIM:8:12]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:MINING_INDICATORS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
+
+[TILE_PAGE:GENERATED_LIST_ICONS]
+	[FILE:images/ascii/7_0.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:16:16]
